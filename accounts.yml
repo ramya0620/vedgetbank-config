@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to VedgetBank accounts related local APIs "
+  contactDetails:
+    name: "Ramya - Developer"
+    email: "Ramya@vedgetbank.com"
+  onCallSupport:
+    - (123) 456-7890
+    - (123) 456-7980

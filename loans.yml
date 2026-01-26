@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to VedgetBank Loans related Local APIs "
+  contactDetails:
+    name: "Ramya - Developer"
+    email: "ramya@vedgetbank.com"
+  onCallSupport:
+    - (123) 456-7890
+    - (123) 456-7980
+
