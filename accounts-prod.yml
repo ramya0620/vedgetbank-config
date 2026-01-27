@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to VedgetBank accounts related prod APIs "
+  message: "Welcome to VedgetBank accounts related WEbhook APIs "
   contactDetails:
     name: "Krishna Anshu - Product Owner"
     email: "{cipher}5ab2bfa664a13c429635ff310f80336c495816fe1efd1bd9828ee8959bacd4e44278b122ad25fb6af7089ac33652a729"
@@ -10,6 +10,7 @@ accounts:
     - (453) 392-4829
 
     - (236) 203-0384
+
 
 
 
