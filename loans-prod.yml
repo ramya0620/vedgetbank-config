@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to VedgetBank Loans related production APIs "
+  message: "Welcome to VedgetBank Loans related prod APIs "
   contactDetails:
     name: "Krishna Anshu - Loans Owner"
     email: "krishnaanshu@vedgetbank.com"
@@ -12,3 +12,4 @@ accounts:
     - (453) 392-4829
 
     - (236) 203-0384
+
